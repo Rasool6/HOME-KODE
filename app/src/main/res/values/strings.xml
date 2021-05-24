@@ -1,0 +1,450 @@
+<resources>
+    <string name="app_name">HOME-KODE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    fb strings-->
+    <string name="facebook_app_id">858052808475817</string>
+    <string name="fb_login_protocol_scheme">fb858052808475817</string>
+    <!--   video data /////////////-->
+    <string name="txt_empty" />
+    <string name="txt_done">Done</string>
+    <string name="txt_gallery">Open Gallery</string>
+    <string name="txt_take_camera">Take Camera</string>
+    <string name="txt_select_video">Select video</string>
+    <string name="hint_min_gap">Enter min duration(in secs)</string>
+    <string name="hint_min_max">Min duration(in secs)</string>
+    <string name="txt_min_max">Selet video-minGap to maxgap trim</string>
+    <string name="txt_option">Options</string>
+    <string name="txt_max_duration_secs">Max duration(in secs)</string>
+    <string name="txt_enter_fixed_trim_duration_in_secs">Enter fixed trim duration(in secs)</string>
+    <!--end-->
+
+    <!--month string array-->
+    <string-array name="month">
+        <item>Available Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <!--living_room string array-->
+    <string-array name="living_room">
+        <item>No of Living Rooms</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <!--    floor array-->
+    <string-array name="floor">
+        <item>Select the floor</item>
+        <item>1st floor</item>
+        <item>2nd floor</item>
+        <item>3rd floor</item>
+        <item>4th floor</item>
+        <item>5th floor</item>
+        <item>6th floor</item>
+        <item>7th floor</item>
+        <item>8th floor</item>
+        <item>9th floor</item>
+        <item>10th floor</item>
+        <item>11th floor</item>
+        <item>12th floor</item>
+        <item>13th floor</item>
+        <item>14th floor</item>
+        <item>15th floor</item>
+        <item>16th floor</item>
+        <item>17th floor</item>
+        <item>18th floor</item>
+        <item>19th floor</item>
+        <item>20th floor</item>
+        <item>21th floor</item>
+        <item>22th floor</item>
+        <item>23th floor</item>
+        <item>24th floor</item>
+        <item>25th floor</item>
+        <item>26th floor</item>
+        <item>27th floor</item>
+        <item>28th floor</item>
+        <item>29th floor</item>
+        <item>30th floor</item>
+        <item>31th floor</item>
+        <item>32th floor</item>
+        <item>33th floor</item>
+        <item>34th floor</item>
+        <item>35th floor</item>
+        <item>36th floor</item>
+        <item>37th floor</item>
+        <item>38th floor</item>
+        <item>39th floor</item>
+        <item>40th floor</item>
+        <item>41th floor</item>
+        <item>42th floor</item>
+        <item>43th floor</item>
+        <item>44th floor</item>
+        <item>45th floor</item>
+        <item>46th floor</item>
+        <item>47th floor</item>
+        <item>48th floor</item>
+        <item>49th floor</item>
+        <item>50th floor</item>
+        <item>51th floor</item>
+        <item>52th floor</item>
+        <item>53th floor</item>
+        <item>54th floor</item>
+        <item>55th floor</item>
+        <item>56th floor</item>
+        <item>57th floor</item>
+        <item>58th floor</item>
+        <item>59th floor</item>
+        <item>60th floor</item>
+        <item>61th floor</item>
+        <item>62th floor</item>
+        <item>63th floor</item>
+        <item>64th floor</item>
+        <item>65th floor</item>
+        <item>66th floor</item>
+        <item>67th floor</item>
+        <item>68th floor</item>
+        <item>69th floor</item>
+        <item>70th floor</item>
+        <item>71th floor</item>
+        <item>72th floor</item>
+        <item>73th floor</item>
+        <item>74th floor</item>
+        <item>75th floor</item>
+        <item>76th floor</item>
+        <item>77th floor</item>
+        <item>78th floor</item>
+        <item>79th floor</item>
+        <item>80th floor</item>
+        <item>81th floor</item>
+        <item>82th floor</item>
+        <item>83th floor</item>
+        <item>84th floor</item>
+        <item>85th floor</item>
+        <item>86th floor</item>
+        <item>87th floor</item>
+        <item>88th floor</item>
+        <item>89th floor</item>
+        <item>90th floor</item>
+        <item>91th floor</item>
+        <item>92th floor</item>
+        <item>93th floor</item>
+        <item>94th floor</item>
+        <item>95th floor</item>
+        <item>96th floor</item>
+        <item>97th floor</item>
+        <item>98th floor</item>
+        <item>99th floor</item>
+
+    </string-array>
+    <!--bathroom_room string array-->
+    <string-array name="bathroom_room">
+        <item>No of Bathroom</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <!--balcony_room string array-->
+    <string-array name="balcony_room">
+        <item>No of Balcony</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="propertyType">
+        <item>Property Type</item>
+
+        <item>Flat</item>
+        <item>Free Space</item>
+        <item>Tin-Shed</item>
+        <item>Free Spaces</item>
+        <item>Rooms</item>
+        <item>Duplex</item>
+        <item>Others</item>
+
+    </string-array>
+    <string-array name="miniPrice">
+        <item>Select Minimum Price</item>
+
+        <item>10000</item>
+        <item>20000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>50000</item>
+
+
+    </string-array>
+    <string-array name="maxiPrice">
+        <item>Select Maximum Price</item>
+
+        <item>60000</item>
+        <item>70000</item>
+        <item>80000</item>
+        <item>90000</item>
+        <item>100000</item>
+    </string-array>
+
+    <string-array name="Area">
+        <item>Select Area </item>
+        <item>BAGERHAT SADAR</item>
+        <item>CHILMARI</item>
+        <item>FAKIRHAT</item>
+        <item>KACHUA</item>
+        <item>MOLLAHAT</item>
+        <item>MONGLA</item>
+        <item>MORRELGANJ</item>
+        <item>RAMPAL</item>
+        <item>SARANKHOLA</item>
+        <item>SARANKHOLA</item>
+        <item>BANDARBAN SADAR</item>
+        <item>LAMA</item>
+        <item>NAIKHONGCHHARI</item>
+        <item>ROWANGCHHARI</item>
+        <item>RUMA</item>
+        <item>THANCHI</item>
+        <item>AMTALI</item>
+        <item>BARGULA SADAR</item>
+        <item>BETAGI</item>
+        <item>PATHARGHATA</item>
+        <item>TALTOLI</item>
+        <item>AGAILJHARA</item>
+        <item>BABUGANJ</item>
+        <item>BAKERGANJ</item>
+        <item>BANARIPARA</item>
+        <item>GAURNADI</item>
+        <item>HIZLA</item>
+        <item>BARISHAL SADAR</item>
+        <item>MEHENDIGANJ</item>
+        <item>MULADI</item>
+        <item>WAZIRPUR</item>
+        <item>BHOLA SADAR</item>
+        <item>BURHANUDDIN</item>
+        <item>CHAR FASSON</item>
+        <item>DAULATKHAN</item>
+        <item>LALMOHAN</item>
+        <item>MANPURA</item>
+        <item>TAZUMUDDIN</item>
+        <item>ADAMDIGHI</item>
+        <item>BOGRA SADAR</item>
+        <item>DHUNAT</item>
+        <item>DUPCHANCHIA</item>
+        <item>GABTALI</item>
+        <item>KAHALOO</item>
+        <item>NANDIGRAM</item>
+        <item>SARIAKANDI</item>
+        <item>SAHAJANPUR</item>
+        <item>SHERPUR</item>
+        <item>SHIBGANJ</item>
+        <item>SONATALA</item>
+        <item>AKHAURA</item>
+        <item>BANCHARAMPUR</item>
+        <item>BRAHMANBARIA SADAR</item>
+        <item>KASBA</item>
+        <item>NABINAGAR</item>
+        <item>NASIRNAGAR</item>
+        <item>SARAIL</item>
+        <item>ASHUGANJ</item>
+        <item>BIJOYNAGAR</item>
+        <item>CHANDPUR SADAR</item>
+        <item>FARIDGANJ</item>
+        <item>HAIMCHAR</item>
+        <item>HAZIGANJ</item>
+        <item>KACHUA</item>
+        <item>MATLAB DAKSHIN</item>
+        <item>MATLAB UTTAR</item>
+        <item>SHAHRASTI</item>
+        <item>ANWARA</item>
+        <item>BANSHKHALI</item>
+        <item>BOALKHALI</item>
+        <item>CHANDANAISH</item>
+        <item>FATIKCHHARI</item>
+        <item>HATHAZARI</item>
+        <item>LOHAGARA</item>
+        <item>MIRSHARAI</item>
+        <item>PATIYA</item>
+        <item>RANGUNIA</item>
+        <item>RAOZAN</item>
+        <item>SANDWIP</item>
+        <item>SATKANIA</item>
+        <item>SITAKUNDA</item>
+        <item>BANDOR</item>
+        <item>CHANDGAON</item>
+        <item>DOUBLEMOORING</item>
+        <item>KOTWALI</item>
+        <item>PAHARTALI</item>
+        <item>PANCHLAISH</item>
+        <item>2 NO. GATE</item>
+        <item>AGRABAD</item>
+        <item>AGRABAD ACCESS ROAD</item>
+        <item>AGRABAD BAREK BUILDING</item>
+        <item>AGRABAD CHOWMUHANI</item>
+        <item>AKBARSHAH RAILWAY ROAD</item>
+        <item>AKBARSHAH RAILWAY COLONY</item>
+        <item>ALI NAGAR</item>
+        <item>ALKARAN</item>
+        <item>AMAN BAZAR</item>
+        <item>AMIRBAG</item>
+        <item>AMTALA</item>
+        <item>ANDARKILLA</item>
+        <item>ARAKAN H/S</item>
+        <item>AREFIN NAGAR</item>
+        <item>ASHKAR DIGHIR PAR</item>
+        <item>BADURTALA</item>
+        <item>BAHADDARHAT</item>
+        <item>BAKALIA EAST</item>
+        <item>BAKALIA WEST</item>
+        <item>BANANI R/A</item>
+        <item>BANGLADESH BANK COLONY</item>
+        <item>BATALI ROAD</item>
+        <item>BATTERY GOLI</item>
+        <item>BAYAZID BOSTAMI</item>
+        <item>BEPARI PARA</item>
+        <item>BOW BAZAR</item>
+        <item>BOXIRHAT</item>
+        <item>BURISCHAR</item>
+        <item>BURMA COLONY</item>
+        <item>CANTONMENT</item>
+        <item>CHAITANNA GOLI</item>
+        <item>CHAKTAI</item>
+        <item>CHANDGAON R/A BLOCK A</item>
+        <item>CHANDGAON R/A BLOCK B</item>
+        <item>CHANDRIMA</item>
+        <item>CHASMA HILL R/A</item>
+        <item>CHATTESWARI ROAD</item>
+        <item>CHAWK BAZAR</item>
+        <item>CHOWDHURY PARA</item>
+        <item>CINEMA PALACE</item>
+        <item>COSMOPOLITAN R/A</item>
+        <item>CRB ROAD</item>
+        <item>DAKSHIN KATTALI</item>
+        <item>DAMPARA</item>
+        <item>DAROGHA HAT</item>
+        <item>DC HILL ROAD</item>
+        <item>DEBAR PAR</item>
+        <item>DEWANHAT</item>
+        <item>ENAYET BAZAR</item>
+        <item>FARIDER PARA</item>
+        <item>FIRINGI BAZAR</item>
+        <item>FIROS SHAH COLONY</item>
+        <item>FREE PORT</item>
+        <item>GANI COLONY</item>
+        <item>GEC CIRCLE</item>
+        <item>GOL PAHAR MOOR</item>
+        <item>HALISHAHAR</item>
+        <item>HAMJARBAG</item>
+        <item>HAZIPARA</item>
+        <item>HILL VIEW R/A</item>
+        <item>ICE FACTORY ROAD</item>
+        <item>JALALABAD H/S</item>
+        <item>JAMAL KHAN</item>
+        <item>JANGALPARA</item>
+        <item>JHAWTOLA</item>
+        <item>JUBILEE ROAD</item>
+
+    </string-array>
+    <!--city string array-->
+    <string-array name="city">
+        <item>Select District</item>
+        <item>Bagerhat</item>
+        <item>Bandarban</item>
+        <item>Barguna</item>
+        <item>Barishal</item>
+        <item>Bhola</item>
+        <item>Bogura</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chapai Nawabganj</item>
+        <item>Chattogram</item>
+        <item>Chuadanga</item>
+        <item>Cox Bazar</item>
+        <item>Cumilla</item>
+        <item>Dhaka</item>
+        <item>Dinajpur</item>
+        <item>Faridpur</item>
+        <item>Feni</item>
+        <item>Gaibandha</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Habiganj</item>
+        <item>Jamalpur</item>
+        <item>Jashore</item>
+        <item>Jhalakathi</item>
+        <item>Jhenaidah</item>
+        <item>Joypurhat</item>
+        <item>Khagrachhari</item>
+        <item>Khulna</item>
+        <item>Kishoreganj</item>
+        <item>Kurigram</item>
+        <item>Kushtia</item>
+        <item>Lakshmipur</item>
+        <item>Lalmonirhat</item>
+        <item>Madaripur</item>
+        <item>Magura</item>
+        <item>Manikganj</item>
+        <item>Meherpur</item>
+        <item>Moulvibazar</item>
+        <item>Munshiganj</item>
+        <item>Mymensingh</item>
+        <item>Naogaon</item>
+        <item>Narail</item>
+        <item>Narayanganj</item>
+        <item>Narsingdi</item>
+        <item>Natore</item>
+        <item>Netrakona</item>
+        <item>Nilphamari</item>
+        <item>Noakhali</item>
+        <item>Pabna</item>
+        <item>Panchagarh</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Rajbari</item>
+        <item>Rajshahi</item>
+        <item>Rangamati</item>
+        <item>Rangpur</item>
+        <item>Satkhira</item>
+        <item>Shariatpur</item>
+        <item>Sherpur</item>
+        <item>Sirajganj</item>
+        <item>Sunamganj</item>
+        <item>Sylhet</item>
+        <item>Tangail</item>
+        <item>Thakurgaon</item>
+    </string-array>
+
+</resources>

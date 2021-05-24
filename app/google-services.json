@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440714642546",
+    "firebase_url": "https://home-kode302-default-rtdb.firebaseio.com",
+    "project_id": "home-kode302",
+    "storage_bucket": "home-kode302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440714642546:android:6cff44ea40d4fa9c876eeb",
+        "android_client_info": {
+          "package_name": "com.variable.home_kode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440714642546-0indsgpnh7ta2qsnfcir2rc9lohmndiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.variable.home_kode",
+            "certificate_hash": "b5ca5fffacae0ac127d7f89b77b8c864cb4fd3b8"
+          }
+        },
+        {
+          "client_id": "440714642546-opldkrr466k36asiiqjg1vkjf2bq523m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XTYYJnU414bXaSmAcdax2rnw0TE1dVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440714642546-opldkrr466k36asiiqjg1vkjf2bq523m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

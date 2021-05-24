@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="20dp"
+    android:background="@color/bg_green"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/house_window"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bg_yellow"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        android:background="@color/bg_green">
+        <TextView
+            android:id="@+id/edit_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Edit Profile"
+            android:textColor="@color/bg_yellow"
+            android:gravity="center"
+            android:textStyle="bold"            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/bg_yellow"
+            />
+        <TextView
+            android:id="@+id/delete_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Change Password"
+            android:textColor="@color/bg_yellow"
+            android:gravity="center"
+            android:textStyle="bold"            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/bg_yellow"
+            />
+        <TextView
+            android:id="@+id/detail_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Logout"
+            android:textColor="@color/bg_yellow"
+            android:gravity="center"
+            android:textStyle="bold"            />
+    </LinearLayout>
+
+</LinearLayout>
